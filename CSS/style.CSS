@@ -9,3 +9,9 @@ ol{
 ul{
     background-color: blue;
 }
+
+p{
+    text-decoration: underline;
+    font-size: larger;
+    color: rgb(30, 100, 100);
+}
