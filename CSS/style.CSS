@@ -15,3 +15,11 @@ p{
     font-size: larger;
     color: rgb(30, 100, 100);
 }
+
+#test{
+    color: red;
+}
+
+.cst{
+    background-color: blue;
+}
